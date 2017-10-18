@@ -1,0 +1,7 @@
+root@kali:~/scripts# vim community
+public
+private
+manager
+
+for ip in $(seq 1 50); do echo 10.11.10.$ip; done > ips
+onesixtyone -c community -i ips

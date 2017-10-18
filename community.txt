@@ -1,0 +1,4 @@
+# list of community strings for snmp
+public
+private
+manager

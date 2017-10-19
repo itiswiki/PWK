@@ -1,0 +1,7 @@
+nmap -oN your-results.nmap $HOST
+Ctrl-C^ here
+# then later
+nmap --resume your-results.nmap
+
+JW BLOG
+https://localhost.exposed/2016/03/01/path-to-oscp-part-6-day-2-and-3

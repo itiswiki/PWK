@@ -1,1 +1,24 @@
 /usr/share/metasploit-framework/tools/exploit/pattern_create.rb -l 2700
+
+/usr/share/metasploit-framework/tools/exploit 
+
+for all the scripts
+
+/usr/share/metasploit-framework/tools/exploit/egghunter.rb
+/usr/share/metasploit-framework/tools/exploit/exe2vba.rb
+/usr/share/metasploit-framework/tools/exploit/exe2vbs.rb
+/usr/share/metasploit-framework/tools/exploit/extract_msu.bat
+/usr/share/metasploit-framework/tools/exploit/find_badchars.rb
+/usr/share/metasploit-framework/tools/exploit/install_msf_apk.sh
+/usr/share/metasploit-framework/tools/exploit/java_deserializer.rb
+/usr/share/metasploit-framework/tools/exploit/jsobfu.rb
+/usr/share/metasploit-framework/tools/exploit/metasm_shell.rb
+/usr/share/metasploit-framework/tools/exploit/msf_irb_shell.rb
+/usr/share/metasploit-framework/tools/exploit/msu_finder.rb
+/usr/share/metasploit-framework/tools/exploit/nasm_shell.rb
+/usr/share/metasploit-framework/tools/exploit/pattern_create.rb
+/usr/share/metasploit-framework/tools/exploit/pattern_offset.rb
+/usr/share/metasploit-framework/tools/exploit/pdf2xdp.rb
+/usr/share/metasploit-framework/tools/exploit/psexec.rb
+/usr/share/metasploit-framework/tools/exploit/reg.rb
+/usr/share/metasploit-framework/tools/exploit/virustotal.rb

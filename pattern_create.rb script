@@ -1,1 +1,1 @@
-/usr/share/metasploit-framework/tools/exploit/pattern_create.rb 2700
+/usr/share/metasploit-framework/tools/exploit/pattern_create.rb -l 2700
